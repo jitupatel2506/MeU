@@ -3,5 +3,8 @@
     "fb_interstitial" : "1025850381497380_1025850548164030",
     "fb_native" : "1025850381497380_1025850831497335",
     "new_pkg" : "abc.xyz",
-    "is_version" : "false"
+    "is_version" : "false",
+    "ad_mopub_banner":"5fe3bf7aa5864be7934546c7740bd5fc",
+    "ad_mopub_interstitial":"986add4fa55d4124901898f95f48de65",
+    "ad_type":0
   }
