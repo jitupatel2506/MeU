@@ -3,5 +3,8 @@
     "fb_interstitial" : "223186029733083_223186156399737",
     "fb_native" : "223186029733083_223186339733052",
     "new_pkg" : "spin.to.win.cp",
-    "is_version" : "false"
+    "is_version" : "false",
+    "ad_mopub_banner":"c7b45b2fe8f840689c39b42f75aac7ec",
+    "ad_mopub_interstitial":"2badb6f276a74acf983f23e7f17c0d64",
+    "ad_type":0
   }
