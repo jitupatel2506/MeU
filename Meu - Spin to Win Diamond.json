@@ -3,5 +3,8 @@
     "fb_interstitial" : "350887833344971_350888020011619",
     "fb_native" : "350887833344971_350888350011586",
     "new_pkg" : "spin.to.win.diamond",
-    "is_version" : "false"
+    "is_version" : "false",
+    "ad_mopub_banner":"08a4d4d067104b3baac6839fb4821de5",
+    "ad_mopub_interstitial":"1471ed24527946028dac2a6dd8eacf5d",
+    "ad_type":0
   }
